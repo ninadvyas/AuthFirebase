@@ -1,5 +1,5 @@
 
-# [Firebase Authentication]
+# Firebase Authentication
 
 A basic login page made with react which supports Authentication via Phone number & Google account.
 
