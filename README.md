@@ -16,7 +16,7 @@ A basic login page made with react which supports Authentication via Phone numbe
 Clone the project
 
 ```bash
-  git clone https://github.com/salimzeeshan/admin-panel.git
+  git clone https://github.com/NinadVyas/AuthFirebase.git
 ```
 
 Install dependencies
